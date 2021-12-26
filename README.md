@@ -2,7 +2,7 @@
 <h3 align="center">MERN STACK DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siffahim&label=Profile%20views&color=0e75b6&style=flat" alt="siffahim" /> </p>
-![I am GitHub Readme Generator's creator](https://i.ibb.co/QKDszWv/SAIFUL-ISLAM-FAHIM.gif)
+<img src='https://i.ibb.co/QKDszWv/SAIFUL-ISLAM-FAHIM.gif' width='100%' alt='github' />
 
 - 🌱 I’m currently learning **React Native**
 
