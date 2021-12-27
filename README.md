@@ -2,7 +2,7 @@
 <img src='https://i.ibb.co/QKDszWv/SAIFUL-ISLAM-FAHIM.gif' width='100%' alt='github' />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siffahim&label=Profile%20views&color=0e75b6&style=flat" alt="siffahim" /> </p>
 
-<h1>Hi,𝒮𝒜𝐼𝐹𝒰𝐿 𝐼𝒮𝐿𝒜𝑀</h1>
+<h2>𝐇𝐈, 𝐈 𝐌 𝐒𝐀𝐈𝐅𝐔𝐋 𝐈𝐒𝐋𝐀𝐌</h2>
 <h3>MERN STACK DEVELOPER</h3>
 
 - 🌱 I’m currently learning **React Native**
