@@ -49,8 +49,8 @@
 </p>
 
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
+<!-- GitHub Readme Streak Stats - https://github.com/siffahim/github-readme-streak-stats -->
+<p>
   <a href="https://github.com/siffahim/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="siffahim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=siffahim&theme=monokai-metallian&hide_border=true"/>
   </a>
