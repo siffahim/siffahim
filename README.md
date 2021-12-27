@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siffahim&" alt="siffahim" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?siffahim&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siffahim&theme=radical)
