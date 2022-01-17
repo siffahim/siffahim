@@ -27,6 +27,7 @@
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="NextJs" src="https://img.shields.io/badge/Next-20232a.svg?logo=next&logoColor=%2361DAFB"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
