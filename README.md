@@ -7,7 +7,7 @@
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages
+### Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -19,7 +19,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+### Frameworks and libraries
 
 <p>
        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
@@ -30,7 +30,7 @@
     <a href="#"><img alt="NextJs" src="https://img.shields.io/badge/NEXT.JS-20232a.svg?logo=next&logoColor=%2361DAFB"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -38,7 +38,7 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+### Software and tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
