@@ -53,22 +53,10 @@
 
  <div>
     <a href="https://github.com/siffahim/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=siffahim&theme=react&border=61dafb&hide_border=true" alt="siffahim" />
+      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=siffahim&theme=react&border=61dafb&hide_border=true" alt="siffahim" />
     </a>
  </div>
-  <div>
-     <a href="https://github.com/siffahim/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=siffahim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-</div>
-<div>
-    <a href="https://github.com/siffahim/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siffahim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-</div>
- <div>
-     <img src="https://activity-graph.herokuapp.com/graph?username=siffahim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
+ 
  
 <h3>Where you find me</h3>
 <p><a href="https://github.com/siffahim" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://twitter.com/siffahim" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/siffahim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/sif.fahim" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
