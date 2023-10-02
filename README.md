@@ -5,7 +5,6 @@
 <h2>𝐇𝐈, 𝐈 𝐌 <span color:#f9004d>𝐒𝐀𝐈𝐅𝐔𝐋 𝐈𝐒𝐋𝐀𝐌</span></h2>
 
 
-## 🛠️ My favorite tools
 
 ### Programming languages
 
