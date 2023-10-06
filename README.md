@@ -63,8 +63,12 @@
         <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=siffahim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       </a>
     </td>
+    <td>
+    <a href="https://github.com/siffahim/github-readme-stats" title="Go to Source">
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=siffahim&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+    </td>
   </tr>
 </table>
-[![Top Languages](https://img.shields.io/github/languages/top/siffahim/siffahim)](https://github.com/siffahim/siffahim)
 
 
