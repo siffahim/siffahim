@@ -29,11 +29,14 @@
 <p>
         <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
         <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+        <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
 </p>
 
 ### Cloud hosting
 
 <p>
+        <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white"></a>
+        <a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?logo=digitalocean&logoColor=white"></a>
         <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
         <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
         <a href="#"><img alt="Railway" src="https://img.shields.io/badge/Railway-FF6D00.svg?logo=railway&logoColor=white"></a>
@@ -44,6 +47,7 @@
 ### Software and tools
 
 <p>
+        <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
         <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
         <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
         <a href="#"><img alt="Code::Blocks" src="https://img.shields.io/badge/Code::Blocks-2B5E9A.svg?logo=codeblocks&logoColor=white"></a>
